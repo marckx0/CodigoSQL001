@@ -1,4 +1,4 @@
-﻿
+-- Comentarios
 
 create table man_bancos_00 
 (
